@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=renatoschlogel" alt="renatoschlogel" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=renatoschlogel" alt="renatoschlogel" /> </p>
 <h2 align="center">Full Stack Developer</h2>
 <br>
 <p align="center">
