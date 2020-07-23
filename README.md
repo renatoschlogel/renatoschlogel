@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renatoschlogel" alt="renatoschlogel" /> </p>
-<h2 align="center">Analisa e Desenvolvedor de Sistemas Fullstack</h2>
-
+<h2 align="center">Full Stack Developer</h2>
+<br>
 <p align="center">
   <img src="https://konpa.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="38" height="38"/>
   <img src="https://konpa.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="38" height="38"/>
